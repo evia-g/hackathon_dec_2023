@@ -1,3 +1,8 @@
 us
 pandas
 xlrd
+seaborn
+scipy
+numpy
+plotly
+matplotlib
